@@ -49,7 +49,7 @@ public class AreaCalculatorService {
             
             result = "" + new DecimalFormat("#.##").format(area);
         }catch(NumberFormatException e){
-            result = "You must enter a width and height!";
+            result = "You must enter a radius!";
         }
         
         return result;
