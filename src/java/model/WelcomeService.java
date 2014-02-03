@@ -24,6 +24,7 @@ public class WelcomeService {
 public WelcomeService(){
     
 }
+
 private String determinTimeOfDay(){
     daysHour = todaysDate.get(Calendar.HOUR_OF_DAY);
     
