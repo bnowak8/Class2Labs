@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author mashit
+ * @author bnowak8
  */
 public class WelcomeService {
     GregorianCalendar todaysDate = new GregorianCalendar();

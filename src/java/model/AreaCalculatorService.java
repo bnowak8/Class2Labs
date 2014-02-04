@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  *
- * @author mashit
+ * @author bnowak8
  */
 public class AreaCalculatorService {
     double width= 0, height = 0, area = 0, radius = 0, side = 0, side1 = 0, side2 = 0;

@@ -1,7 +1,7 @@
 <%-- 
     Document   : greeting
     Created on : Jan 29, 2014, 10:59:02 PM
-    Author     : mashit
+    Author     : bnowak8
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,7 +1,7 @@
 <%-- 
     Document   : PageGenerator2
     Created on : Jan 29, 2014, 8:32:20 PM
-    Author     : mashit
+    Author     : bnowak8
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

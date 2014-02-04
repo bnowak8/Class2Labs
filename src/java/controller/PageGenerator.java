@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author mashit
+ * @author bnowak8
  */
 @WebServlet(name = "PageGenerator", urlPatterns = {"/pager"})
 public class PageGenerator extends HttpServlet {

@@ -19,7 +19,7 @@ import model.WelcomeService;
 
 /**
  *
- * @author mashit
+ * @author bnowak8
  */
 @WebServlet(name = "GreetingGenerator", urlPatterns = {"/greeter"})
 public class GreetingGenerator extends HttpServlet {

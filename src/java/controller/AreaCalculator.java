@@ -19,7 +19,7 @@ import model.AreaCalculatorService;
 
 /**
  *
- * @author mashit
+ * @author bnowak8
  */
 @WebServlet(name = "AreaCalculator", urlPatterns = {"/AreaCalc"})
 public class AreaCalculator extends HttpServlet {
